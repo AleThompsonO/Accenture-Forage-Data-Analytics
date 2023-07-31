@@ -1,2 +1,2 @@
 # Accenture-Forage-Data-Analytics
-Este repositorio fue creado para almacenar los archivos de la tareas de la experiencia Accenture - Forage - Data Analytics and Visualization
+This repository was created to store the Accenture - Forage - Data Analytics and Visualization experience task files.
