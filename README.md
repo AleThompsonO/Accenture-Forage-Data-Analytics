@@ -1,4 +1,5 @@
 ![Accenture](https://www.opendoorsinitiative.ie/userfiles/images/courses/Accenture-Logo.jpg)
+![Dashboard](Accenture.JPG)
 # Accenture North America Data Analytics and Visualization Virtual Experience
 
 This repository contains my work for the [Accenture North America Data Analytics and Visualization Virtual Experience](https://www.theforage.com/virtual-internships/prototype/hzmoNKtzvAzXsEqx8/Data-Analytics-Virtual-Experience) on Forage.
