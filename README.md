@@ -11,4 +11,4 @@ Upon completion, I was equipped with data fundamentals and an understanding of w
 
 I invite you to explore my work in this repository and learn more about the virtual experience on [Forage](https://www.theforage.com/virtual-internships/prototype/hzmoNKtzvAzXsEqx8/Data-Analytics-Virtual-Experience).
 
-[Data](https://nbviewer.org/github/AleThompsonO/Accenture-Forage-Data-Analytics/blob/main/Accenture.ipynb)
+[Here you can visualize the processing of the data](https://nbviewer.org/github/AleThompsonO/Accenture-Forage-Data-Analytics/blob/main/Accenture.ipynb)
